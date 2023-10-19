@@ -20,8 +20,8 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #008374;
-  --color-secondary: #f85a40;
+  --color-primary: #324E65;
+  --color-secondary: #324E65;
 }
 
 /* Smooth scroll behavior */
@@ -238,7 +238,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #00796b;
+  background: #324E65;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -1720,7 +1720,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #009282;
+  background-color: #324E65;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Impact Bootstrap Template - Index</title>
+  <title>Jean Michel Charier</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -13,111 +13,41 @@
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Impact
-  * Updated: Sep 18 2023 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
-
-  <!-- ======= Header ======= -->
-  <section id="topbar" class="topbar d-flex align-items-center">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
-      </div>
-      <div class="social-links d-none d-md-flex align-items-center">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-      </div>
-    </div>
-  </section><!-- End Top Bar -->
-
-  <header id="header" class="header d-flex align-items-center">
-
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo d-flex align-items-center">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Impact<span>.</span></h1>
-      </a>
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="#hero">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </nav><!-- .navbar -->
-
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-
-    </div>
-  </header><!-- End Header -->
-  <!-- End Header -->
+<?php include("shared/header.php"); ?> 
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero">
     <div class="container position-relative">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h2>Welcome to <span>Impact</span></h2>
-          <p>Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p>
+          <h2>Masseur-Kinésithérapeute <span>Vestibulaire</span></h2>
+          <p>Un masseur-kinésithérapeute vestibulaire est un spécialiste qui traite les troubles de l'équilibre liés au système vestibulaire de l'oreille interne.</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started">Get Started</a>
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            <a href="#about" class="btn-get-started">Prendre rendez-vous</a>
+            <!-- <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2">
-          <img src="assets/img/hero-img.svg" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100">
+          <img src="assets/img/malade1.svg" class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="100">
         </div>
       </div>
     </div>
 
-    <div class="icon-boxes position-relative">
+    <!-- <div class="icon-boxes position-relative">
       <div class="container position-relative">
         <div class="row gy-4 mt-5">
 
@@ -126,32 +56,32 @@
               <div class="icon"><i class="bi bi-easel"></i></div>
               <h4 class="title"><a href="" class="stretched-link">Lorem Ipsum</a></h4>
             </div>
-          </div><!--End Icon Box -->
+          </div>
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-gem"></i></div>
               <h4 class="title"><a href="" class="stretched-link">Sed ut perspiciatis</a></h4>
             </div>
-          </div><!--End Icon Box -->
+          </div>
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-geo-alt"></i></div>
               <h4 class="title"><a href="" class="stretched-link">Magni Dolores</a></h4>
             </div>
-          </div><!--End Icon Box -->
+          </div>
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-command"></i></div>
               <h4 class="title"><a href="" class="stretched-link">Nemo Enim</a></h4>
             </div>
-          </div><!--End Icon Box -->
+          </div>
 
         </div>
       </div>
-    </div>
+    </div> -->
 
     </div>
   </section>
@@ -162,16 +92,15 @@
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
-
         <div class="section-header">
-          <h2>About Us</h2>
-          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+          <h2>A propos de moi</h2>
+          <!-- <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p> -->
         </div>
 
         <div class="row gy-4">
           <div class="col-lg-6">
             <h3>Voluptatem dignissimos provident quasi corporis</h3>
-            <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
+            <img src="assets/img/cabinet1.jpg" class="img-fluid rounded-4 mb-4" alt="">
             <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur fugiat voluptas ea.</p>
             <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p>
           </div>
@@ -192,18 +121,18 @@
               </p>
 
               <div class="position-relative mt-4">
-                <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+                <img src="assets/img/cabinet2.jpg" class="img-fluid rounded-4" alt="">
               </div>
             </div>
           </div>
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
+    <!-- <section id="clients" class="clients">
       <div class="container" data-aos="zoom-out">
 
         <div class="clients-slider swiper">
@@ -220,10 +149,11 @@
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section> -->
+    <!-- End Clients Section -->
 
     <!-- ======= Stats Counter Section ======= -->
-    <section id="stats-counter" class="stats-counter">
+    <!-- <section id="stats-counter" class="stats-counter">
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4 align-items-center">
@@ -237,42 +167,44 @@
             <div class="stats-item d-flex align-items-center">
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Happy Clients</strong> consequuntur quae diredo para mesta</p>
-            </div><!-- End Stats Item -->
+            </div>
 
             <div class="stats-item d-flex align-items-center">
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Projects</strong> adipisci atque cum quia aut</p>
-            </div><!-- End Stats Item -->
+            </div>
 
             <div class="stats-item d-flex align-items-center">
               <span data-purecounter-start="0" data-purecounter-end="453" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
-            </div><!-- End Stats Item -->
+            </div>
 
           </div>
 
         </div>
 
       </div>
-    </section><!-- End Stats Counter Section -->
+    </section> -->
+    <!-- End Stats Counter Section -->
 
     <!-- ======= Call To Action Section ======= -->
-    <section id="call-to-action" class="call-to-action">
+    <!-- <section id="call-to-action" class="call-to-action">
       <div class="container text-center" data-aos="zoom-out">
         <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
         <h3>Call To Action</h3>
         <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <a class="cta-btn" href="#">Call To Action</a>
       </div>
-    </section><!-- End Call To Action Section -->
+    </section> -->
+    <!-- End Call To Action Section -->
 
     <!-- ======= Our Services Section ======= -->
-    <section id="services" class="services sections-bg">
+    <section id="skills" class="services sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Our Services</h2>
-          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+          <h2>Mes compétences</h2>
+          <!-- <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p> -->
         </div>
 
         <div class="row gy-4" data-aos="fade-up" data-aos-delay="100">
@@ -284,7 +216,7 @@
               </div>
               <h3>Nesciunt Mete</h3>
               <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -295,7 +227,7 @@
               </div>
               <h3>Eosle Commodi</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -306,7 +238,7 @@
               </div>
               <h3>Ledo Markt</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -317,7 +249,7 @@
               </div>
               <h3>Asperiores Commodit</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -328,7 +260,7 @@
               </div>
               <h3>Velit Doloremque</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -339,22 +271,131 @@
               </div>
               <h3>Dolori Architecto</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
         </div>
 
       </div>
-    </section><!-- End Our Services Section -->
+    </section>
+    <!-- End Our Services Section -->
+
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq" class="faq">
+          <div class="container" data-aos="fade-up">
+
+            <div class="row gy-4">
+
+              <div class="col-lg-4">
+                <div class="content px-xl-5">
+                  <h3><strong>Questions</strong> fréquemment posées</h3>
+                </div>
+              </div>
+
+              <div class="col-lg-8">
+
+                <div class="accordion accordion-flush" id="faqlist" data-aos="fade-up" data-aos-delay="100">
+
+                  <div class="accordion-item">
+                    <h3 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                        <span class="num">1.</span>
+                        Quelle est la langue parlée par Charier Jean-michel, masseur-kinésitherapeute ?
+                      </button>
+                    </h3>
+                    <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                      <div class="accordion-body">
+                      La langue parlée par Charier Jean-michel, masseur-kinésitherapeute, est le français.
+                    </div>
+                    </div>
+                  </div><!-- # Faq item-->
+
+                  <div class="accordion-item">
+                    <h3 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                        <span class="num">2.</span>
+                        Où consulte Charier Jean-michel, masseur-kinésitherapeute ?
+                      </button>
+                    </h3>
+                    <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                      <div class="accordion-body">
+                      Nombre de lieux de consultation de votre praticien : 1
+                      <br />
+                      Consultation au 48 Rue CLAUDE TERRASSE à paris dans le 75016
+                    </div>
+                    </div>
+                  </div><!-- # Faq item-->
+
+                  <div class="accordion-item">
+                    <h3 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                        <span class="num">3.</span>
+                        Quels sont les transports les plus proches du lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute ?
+                      </button>
+                    </h3>
+                    <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                      <div class="accordion-body">
+                      Les transports les plus proches du lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute, sont :
+                      <ul>
+                        <li>Bus - Porte de Saint-Cloud / Murat</li>
+                        <li>Bus - Versailles / Chardon Lagache</li>
+                        <li>Bus - Porte de Saint-Cloud / Michel Ange</li>
+                        <li>Bus - Porte de Saint-Cloud</li>
+                        <li>Metro - Porte de Saint-Cloud</li>
+                        <li>Bus - Porte de Saint-Cloud / Michel-Ange</li>
+                        <li>Bus - Le Jour Se Leve</li>
+                        <li>Bus - Abel Gance</li>
+                        <li>Bus - Michel Ange / Varize</li>
+                        <li>Bus - Voie Lactée</li>
+                      </ul>
+                    </div>
+                    </div>
+                  </div><!-- # Faq item-->
+
+                  <div class="accordion-item">
+                    <h3 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
+                        <span class="num">4.</span>
+                        Comment se rendre sur le lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute ?
+                      </button>
+                    </h3>
+                    <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                      <div class="accordion-body">
+                      <a href="https://www.google.fr/maps/dir//48+Rue+CLAUDE+TERRASSE+75016+Paris/" rel="nofollow">Se rendre sur le lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute</a>                      </div>
+                    </div>
+                  </div><!-- # Faq item-->
+
+                  <div class="accordion-item">
+                    <h3 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                        <span class="num">5.</span>
+                        Quelle est la spécialité de Charier Jean-michel ?
+                      </button>
+                    </h3>
+                    <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                      <div class="accordion-body">
+                      La spécialité de Charier Jean-michel est masseur-kinésitherapeute
+                      </div>
+                    </div>
+                  </div><!-- # Faq item-->
+
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+    </section>
+    <!-- End Frequently Asked Questions Section -->
+
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
+    <section id="avis" class="testimonials">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Testimonials</h2>
-          <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
+          <h2>Avis Google</h2>
         </div>
 
         <div class="slides-3 swiper" data-aos="fade-up" data-aos-delay="100">
@@ -478,7 +519,7 @@
     </section><!-- End Testimonials Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio sections-bg">
+    <!-- <section id="portfolio" class="portfolio sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -495,7 +536,7 @@
               <li data-filter=".filter-product">Product</li>
               <li data-filter=".filter-branding">Branding</li>
               <li data-filter=".filter-books">Books</li>
-            </ul><!-- End Portfolio Filters -->
+            </ul>
           </div>
 
           <div class="row gy-4 portfolio-container">
@@ -508,7 +549,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-product">
               <div class="portfolio-wrap">
@@ -518,7 +559,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-branding">
               <div class="portfolio-wrap">
@@ -528,7 +569,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-books">
               <div class="portfolio-wrap">
@@ -538,7 +579,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
@@ -548,7 +589,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-product">
               <div class="portfolio-wrap">
@@ -558,7 +599,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-branding">
               <div class="portfolio-wrap">
@@ -568,7 +609,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-books">
               <div class="portfolio-wrap">
@@ -578,7 +619,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
@@ -588,7 +629,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-product">
               <div class="portfolio-wrap">
@@ -598,7 +639,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-branding">
               <div class="portfolio-wrap">
@@ -608,7 +649,7 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-books">
               <div class="portfolio-wrap">
@@ -618,17 +659,18 @@
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div>
 
-          </div><!-- End Portfolio Container -->
+          </div>
 
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> -->
+    <!-- End Portfolio Section -->
 
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team">
+    <!-- <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -650,7 +692,7 @@
                 <a href=""><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
@@ -664,7 +706,7 @@
                 <a href=""><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
@@ -678,7 +720,7 @@
                 <a href=""><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
@@ -692,15 +734,16 @@
                 <a href=""><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
-          </div><!-- End Team Member -->
+          </div>
 
         </div>
 
       </div>
-    </section><!-- End Our Team Section -->
+    </section> -->
+    <!-- End Our Team Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing sections-bg">
+    <!-- <section id="pricing" class="pricing sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -726,7 +769,7 @@
               </ul>
               <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
             </div>
-          </div><!-- End Pricing Item -->
+          </div>
 
           <div class="col-lg-4">
             <div class="pricing-item featured">
@@ -745,7 +788,7 @@
               </ul>
               <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
             </div>
-          </div><!-- End Pricing Item -->
+          </div>
 
           <div class="col-lg-4">
             <div class="pricing-item">
@@ -763,112 +806,16 @@
               </ul>
               <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
             </div>
-          </div><!-- End Pricing Item -->
+          </div>
 
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
-
-    <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4">
-            <div class="content px-xl-5">
-              <h3>Frequently Asked <strong>Questions</strong></h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-              </p>
-            </div>
-          </div>
-
-          <div class="col-lg-8">
-
-            <div class="accordion accordion-flush" id="faqlist" data-aos="fade-up" data-aos-delay="100">
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
-                    <span class="num">1.</span>
-                    Non consectetur a erat nam at lectus urna duis?
-                  </button>
-                </h3>
-                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
-                    <span class="num">2.</span>
-                    Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
-                  </button>
-                </h3>
-                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
-                    <span class="num">3.</span>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
-                  </button>
-                </h3>
-                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
-                    <span class="num">4.</span>
-                    Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
-                  </button>
-                </h3>
-                <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
-                    <span class="num">5.</span>
-                    Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
-                  </button>
-                </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-            </div>
-
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section> -->
+    <!-- End Pricing Section -->
 
     <!-- ======= Recent Blog Posts Section ======= -->
-    <section id="recent-posts" class="recent-posts sections-bg">
+    <!-- <section id="recent-posts" class="recent-posts sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -902,7 +849,7 @@
               </div>
 
             </article>
-          </div><!-- End post list item -->
+          </div>
 
           <div class="col-xl-4 col-md-6">
             <article>
@@ -928,7 +875,7 @@
               </div>
 
             </article>
-          </div><!-- End post list item -->
+          </div>
 
           <div class="col-xl-4 col-md-6">
             <article>
@@ -954,12 +901,13 @@
               </div>
 
             </article>
-          </div><!-- End post list item -->
+          </div>
 
-        </div><!-- End recent posts list -->
+        </div>
 
       </div>
-    </section><!-- End Recent Blog Posts Section -->
+    </section> -->
+    <!-- End Recent Blog Posts Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -967,7 +915,7 @@
 
         <div class="section-header">
           <h2>Contact</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
+          <!-- <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p> -->
         </div>
 
         <div class="row gx-lg-0 gy-4">
@@ -978,8 +926,8 @@
               <div class="info-item d-flex">
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
-                  <h4>Location:</h4>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <h4>Localisation:</h4>
+                  <p>48 Rue CLAUDE TERRASSE 75016 paris</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -994,16 +942,16 @@
               <div class="info-item d-flex">
                 <i class="bi bi-phone flex-shrink-0"></i>
                 <div>
-                  <h4>Call:</h4>
-                  <p>+1 5589 55488 55</p>
+                  <h4>Tél:</h4>
+                  <p>+33 1 48 25 73 34</p>
                 </div>
               </div><!-- End Info Item -->
 
               <div class="info-item d-flex">
                 <i class="bi bi-clock flex-shrink-0"></i>
                 <div>
-                  <h4>Open Hours:</h4>
-                  <p>Mon-Sat: 11AM - 23PM</p>
+                  <h4>Ouvert:</h4>
+                  <p>Lun-Ven: 8h - 19h</p>
                 </div>
               </div><!-- End Info Item -->
             </div>
@@ -1014,14 +962,14 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre e mail" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" required>
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="7" placeholder="Message" required></textarea>
@@ -1031,9 +979,10 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Transmettre</button></div>
             </form>
-          </div><!-- End Contact Form -->
+          </div>
+          <!-- End Contact Form -->
 
         </div>
 
@@ -1042,76 +991,7 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
-
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
-          <a href="index.html" class="logo d-flex align-items-center">
-            <span>Impact</span>
-          </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-          <div class="social-links d-flex mt-4">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-          </div>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
-          </p>
-
-        </div>
-
-      </div>
-    </div>
-
-    <div class="container mt-4">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Impact</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/impact-bootstrap-business-website-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-
-  </footer><!-- End Footer -->
-  <!-- End Footer -->
+  <?php include("shared/footer.php"); ?> 
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
