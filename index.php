@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Jean Michel Charier</title>
+  <title>Jean Michel CHARIER</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -21,7 +21,7 @@
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <lin48 Rue CLAUDE TERRASSEk href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <link href="assets/css/main.css" rel="stylesheet">
 </head>
@@ -34,10 +34,10 @@
     <div class="container position-relative">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h2>Masseur-Kinésithérapeute <span>Vestibulaire</span></h2>
-          <p>Un masseur-kinésithérapeute vestibulaire est un spécialiste qui traite les troubles de l'équilibre liés au système vestibulaire de l'oreille interne.</p>
+          <h2>Rééducateur <span>Vestibulaire</span></h2>
+          <p>Un rééducateur vestibulaire est un spécialiste qui traite les troubles de l'oreille interne et de l'équilibre.</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started">Prendre rendez-vous</a>
+            <a href="https://www.vestib.org/annuaire/detail/10832.html" class="btn-get-started" target="_blank">Prendre rendez-vous</a>
             <!-- <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
@@ -131,6 +131,116 @@
     </section>
     <!-- End About Us Section -->
 
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+      <div class="section-header">
+          <h2>Vestibulaire</h2>
+        </div>
+
+        <div class="row g-5">
+
+          <div class="col-lg-8">
+
+            <article class="blog-details">
+
+              <div class="post-img" style="text-align:center">
+                <img src="https://alynsimardaudio.com/wp-content/uploads/2014/03/oreille.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
+
+              <div class="content">
+                <p>
+                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
+                  Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
+                </p>
+
+                <p>
+                  Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
+                </p>
+
+                <blockquote>
+                  <p>
+                    Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
+                  </p>
+                </blockquote>
+
+                <p>
+                  Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
+                  Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
+                  Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
+                </p>
+
+                <h3>Et quae iure vel ut odit alias.</h3>
+                <p>
+                  Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
+                  Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
+                  Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.
+                </p>
+                <img src="assets/img/blog/blog-inside-post.jpg" class="img-fluid" alt="">
+
+                <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
+                <p>
+                  Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
+                  Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
+                </p>
+                <p>
+                  Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
+                </p>
+
+              </div><!-- End post content -->
+
+            </article><!-- End blog post -->
+          </div>
+
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <!-- <div class="sidebar-item search-form">
+                <h3 class="sidebar-title">Search</h3>
+                <form action="" class="mt-3">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div>End sidebar search formn -->
+
+              <div class="sidebar-item tags">
+  <h3 class="sidebar-title">Tags</h3>
+  <ul class="mt-3">
+    <li><a href="https://fr.wikipedia.org/wiki/R%C3%A9%C3%A9ducation" target="_blank">Rééducation</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Vestibule" target="_blank">Vestibule</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Kin%C3%A9sith%C3%A9rapie" target="_blank">Kinésithérapie</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/%C3%89quilibre" target="_blank">Équilibre</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Vertige" target="_blank">Vertige</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Oreille_interne" target="_blank">Oreille interne</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Proprioception" target="_blank">Proprioception</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Th%C3%A9rapie" target="_blank">Thérapie</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Coordination" target="_blank">Coordination</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Posture_(physique)" target="_blank">Posture</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Troubles_vestibulaires" target="_blank">Troubles vestibulaires</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Physioth%C3%A9rapie" target="_blank">Physiothérapie</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/R%C3%A9adaptation" target="_blank">Réadaptation</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Exercice_physique" target="_blank">Exercices</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/R%C3%A9habilitation_(m%C3%A9decine)" target="_blank">Réhabilitation</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_vestibulaire" target="_blank">Système vestibulaire</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Mouvement" target="_blank">Mouvement</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Sant%C3%A9" target="_blank">Santé vestibulaire</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/S%C3%A9ance" target="_blank">Séances</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Sp%C3%A9cialiste" target="_blank">Spécialiste</a></li>
+  </ul>
+</div>
+
+              <!-- End sidebar tags-->
+
+            </div><!-- End Blog Sidebar -->
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
     <!-- ======= Clients Section ======= -->
     <!-- <section id="clients" class="clients">
       <div class="container" data-aos="zoom-out">
@@ -199,12 +309,12 @@
     <!-- End Call To Action Section -->
 
     <!-- ======= Our Services Section ======= -->
-    <section id="skills" class="services sections-bg">
+    <!-- <section id="skills" class="services sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
           <h2>Mes compétences</h2>
-          <!-- <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p> -->
+          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
         </div>
 
         <div class="row gy-4" data-aos="fade-up" data-aos-delay="100">
@@ -216,9 +326,9 @@
               </div>
               <h3>Nesciunt Mete</h3>
               <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
+              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
@@ -227,9 +337,9 @@
               </div>
               <h3>Eosle Commodi</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
+              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
@@ -238,9 +348,9 @@
               </div>
               <h3>Ledo Markt</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
+              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
@@ -249,9 +359,9 @@
               </div>
               <h3>Asperiores Commodit</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
+              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
@@ -260,9 +370,9 @@
               </div>
               <h3>Velit Doloremque</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
+              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item position-relative">
@@ -271,14 +381,14 @@
               </div>
               <h3>Dolori Architecto</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-              <!-- <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a> -->
+              <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
         </div>
 
       </div>
-    </section>
+    </section> -->
     <!-- End Our Services Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
@@ -301,12 +411,12 @@
                     <h3 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                         <span class="num">1.</span>
-                        Quelle est la langue parlée par Charier Jean-michel, masseur-kinésitherapeute ?
+                        Quelles sont les langues parlées par Charier Jean-michel rééducateur vestibulaire ?
                       </button>
                     </h3>
                     <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                       <div class="accordion-body">
-                      La langue parlée par Charier Jean-michel, masseur-kinésitherapeute, est le français.
+                      Les langues parlées par CHARIER Jean-michel, rééducateur vestibulaire, est le français et anglais.
                     </div>
                     </div>
                   </div><!-- # Faq item-->
@@ -315,14 +425,12 @@
                     <h3 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                         <span class="num">2.</span>
-                        Où consulte Charier Jean-michel, masseur-kinésitherapeute ?
+                        Où consulte Charier Jean-michel, rééducateur vestibulaire ?
                       </button>
                     </h3>
                     <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                       <div class="accordion-body">
-                      Nombre de lieux de consultation de votre praticien : 1
-                      <br />
-                      Consultation au 48 Rue CLAUDE TERRASSE à paris dans le 75016
+                      Consultation au 2 rue Michelet 92100 Boulogne-Billancourt
                     </div>
                     </div>
                   </div><!-- # Faq item-->
@@ -331,23 +439,17 @@
                     <h3 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                         <span class="num">3.</span>
-                        Quels sont les transports les plus proches du lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute ?
+                        Quels sont les transports les plus proches du lieu d’exercice de Charier Jean-michel, rééducateur vestibulaire ?
                       </button>
                     </h3>
                     <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                       <div class="accordion-body">
-                      Les transports les plus proches du lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute, sont :
+                      Les transports les plus proches du lieu d’exercice de Charier Jean-michel, rééducateur vestibulaire, sont :
                       <ul>
-                        <li>Bus - Porte de Saint-Cloud / Murat</li>
-                        <li>Bus - Versailles / Chardon Lagache</li>
-                        <li>Bus - Porte de Saint-Cloud / Michel Ange</li>
-                        <li>Bus - Porte de Saint-Cloud</li>
-                        <li>Metro - Porte de Saint-Cloud</li>
-                        <li>Bus - Porte de Saint-Cloud / Michel-Ange</li>
-                        <li>Bus - Le Jour Se Leve</li>
-                        <li>Bus - Abel Gance</li>
-                        <li>Bus - Michel Ange / Varize</li>
-                        <li>Bus - Voie Lactée</li>
+                        <li>Station de métro : Pont de Sèvres (ligne 9)</li>
+                        <li>Station de bus : Gallieni (bus 467)</li>
+                        <li>Station de tramway : Musée de Sèvres (T2)</li>
+
                       </ul>
                     </div>
                     </div>
@@ -357,12 +459,12 @@
                     <h3 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                         <span class="num">4.</span>
-                        Comment se rendre sur le lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute ?
+                        Comment se rendre sur le lieu d’exercice de Charier Jean-michel, rééducateur vestibulaire ?
                       </button>
                     </h3>
                     <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                       <div class="accordion-body">
-                      <a href="https://www.google.fr/maps/dir//48+Rue+CLAUDE+TERRASSE+75016+Paris/" rel="nofollow">Se rendre sur le lieu d’exercice de Charier Jean-michel, masseur-kinésitherapeute</a>                      </div>
+                      <a href="https://www.google.fr/maps/dir//2+Rue+Michelet,+92100+Boulogne-Billancourt/@48.8343805,2.1875594,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47e67b1e6bfb109f:0xdbeff351254d660c!2m2!1d2.2287588!2d48.8343313?entry=ttu" rel="nofollow" target="_blank">Se rendre sur le lieu d’exercice de Charier Jean-michel, rééducateur vestibulaire</a>                      </div>
                     </div>
                   </div><!-- # Faq item-->
 
@@ -370,13 +472,13 @@
                     <h3 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                         <span class="num">5.</span>
-                        Quelle est la spécialité de Charier Jean-michel ?
+                        Quelle est la spécificité de Charier Jean-michel ?
                       </button>
                     </h3>
                     <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                       <div class="accordion-body">
-                      La spécialité de Charier Jean-michel est masseur-kinésitherapeute
-                      </div>
+                      La spécificité de CHARIER Jean-Michel dans la rééducation vestibulaire est de posséder une <a href="https://i.ytimg.com/vi/ZM3Dz4i-Ndg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCNLJ6vo5ORoUR4zTkoyC7YYYAt3g" target="_blank"> plateforme de posturographie dynamique </a>couplée à la réalité virtuelle permettant ainsi la réalisation d'exercices d'équilibre, traitement du mal des transports, des phobies (peur des escaliers, de la foule).                
+                    </div>
                     </div>
                   </div><!-- # Faq item-->
 
@@ -516,7 +618,8 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    <!-- End Testimonials Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <!-- <section id="portfolio" class="portfolio sections-bg">
@@ -927,7 +1030,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h4>Localisation:</h4>
-                  <p>48 Rue CLAUDE TERRASSE 75016 paris</p>
+                  <p>2 rue Michelet 92100 Boulogne-Billancourt</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -935,7 +1038,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Email:</h4>
-                  <p>info@example.com</p>
+                  <p>jeanmichel.charier@sfr.fr</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -951,7 +1054,7 @@
                 <i class="bi bi-clock flex-shrink-0"></i>
                 <div>
                   <h4>Ouvert:</h4>
-                  <p>Lun-Ven: 8h - 19h</p>
+                  <p>Lun-Ven: 8h - 20h</p>
                 </div>
               </div><!-- End Info Item -->
             </div>
