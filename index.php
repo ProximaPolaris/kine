@@ -493,7 +493,7 @@
 
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="avis" class="testimonials">
+    <!-- <section id="avis" class="testimonials">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -523,7 +523,7 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -545,7 +545,7 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -567,7 +567,7 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -589,7 +589,7 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -611,14 +611,14 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
-    </section>
+    </section> -->
     <!-- End Testimonials Section -->
 
     <!-- ======= Portfolio Section ======= -->
